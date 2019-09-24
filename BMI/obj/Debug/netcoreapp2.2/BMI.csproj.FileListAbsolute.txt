@@ -9,3 +9,14 @@ C:\VS\BMI\BMI\obj\Debug\netcoreapp2.2\BMI.AssemblyInfoInputs.cache
 C:\VS\BMI\BMI\obj\Debug\netcoreapp2.2\BMI.AssemblyInfo.cs
 C:\VS\BMI\BMI\obj\Debug\netcoreapp2.2\BMI.dll
 C:\VS\BMI\BMI\obj\Debug\netcoreapp2.2\BMI.pdb
+C:\Users\Karl\Desktop\VS\BMI\BMI\bin\Debug\netcoreapp2.2\BMI.deps.json
+C:\Users\Karl\Desktop\VS\BMI\BMI\bin\Debug\netcoreapp2.2\BMI.runtimeconfig.json
+C:\Users\Karl\Desktop\VS\BMI\BMI\bin\Debug\netcoreapp2.2\BMI.runtimeconfig.dev.json
+C:\Users\Karl\Desktop\VS\BMI\BMI\bin\Debug\netcoreapp2.2\BMI.dll
+C:\Users\Karl\Desktop\VS\BMI\BMI\bin\Debug\netcoreapp2.2\BMI.pdb
+C:\Users\Karl\Desktop\VS\BMI\BMI\obj\Debug\netcoreapp2.2\BMI.csprojAssemblyReference.cache
+C:\Users\Karl\Desktop\VS\BMI\BMI\obj\Debug\netcoreapp2.2\BMI.csproj.CoreCompileInputs.cache
+C:\Users\Karl\Desktop\VS\BMI\BMI\obj\Debug\netcoreapp2.2\BMI.AssemblyInfoInputs.cache
+C:\Users\Karl\Desktop\VS\BMI\BMI\obj\Debug\netcoreapp2.2\BMI.AssemblyInfo.cs
+C:\Users\Karl\Desktop\VS\BMI\BMI\obj\Debug\netcoreapp2.2\BMI.dll
+C:\Users\Karl\Desktop\VS\BMI\BMI\obj\Debug\netcoreapp2.2\BMI.pdb

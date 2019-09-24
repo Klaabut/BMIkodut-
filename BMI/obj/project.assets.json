@@ -693,11 +693,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\VS\\BMI\\BMI\\BMI.csproj",
+      "projectUniqueName": "C:\\Users\\Karl\\Desktop\\VS\\BMI\\BMI\\BMI.csproj",
       "projectName": "BMI",
-      "projectPath": "C:\\VS\\BMI\\BMI\\BMI.csproj",
+      "projectPath": "C:\\Users\\Karl\\Desktop\\VS\\BMI\\BMI\\BMI.csproj",
       "packagesPath": "C:\\Users\\Karl\\.nuget\\packages\\",
-      "outputPath": "C:\\VS\\BMI\\BMI\\obj\\",
+      "outputPath": "C:\\Users\\Karl\\Desktop\\VS\\BMI\\BMI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
