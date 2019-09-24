@@ -7,11 +7,11 @@ namespace BMI
         static void Main(string[] args)
         {
             string firstName;
-            Console.WriteLine("Tere! Mis su nimi on?");
+            Console.WriteLine("Tere! Mis teie nimi on?");
             firstName = Console.ReadLine();
             Console.WriteLine("Tere " + firstName + "!");
 
-            Console.WriteLine("Mis aastal sa sündisid?");
+            Console.WriteLine("Mis aastal te sündisite?");
             int yob;
             double h;
             double w;
@@ -24,24 +24,28 @@ namespace BMI
                 Console.WriteLine("Programm annab õigeid tulemusi vanusevahemikus 20-60. Teie puhul ei oleks tulemus õige.");
 
             }
+            else if (yob > 1999)
+                        {
+                Console.WriteLine("Programm annab õigeid tulemusi vanusevahemikus 20-60. Teie puhul ei oleks tulemus õige.");
+            }
             else
             {
                 // Keha andmete kogumine
                 int age = 2019 - yob;
-                Console.WriteLine("Sa oled " + age + " aastat vana");
+                Console.WriteLine("Te oled " + age + " aastat vana.");
 
-                Console.WriteLine("Kui pikk sa oled?");
+                Console.WriteLine("Kui pikk te olete?");
                 h = int.Parse(Console.ReadLine());
-                Console.WriteLine("Kui palju sa kaalud?");
+                Console.WriteLine("Kui palju te kaalute?");
                 w = int.Parse(Console.ReadLine());
 
                 // BMI arvutus
-               
-                double BMI = w / ((h * h) / 10000) ;
-                
-                
 
-                Console.WriteLine($"Sinu kehamassiindeks on " + BMI );
+                double BMI = w / ((h * h) / 10000);
+
+
+
+                Console.WriteLine($"Sinu kehamassiindeks on " + BMI);
 
                 if (BMI < 16)
                 {
@@ -79,7 +83,7 @@ namespace BMI
                     Console.WriteLine("Te olete tervisele ohtlikult rasvunud.");
                 }
 
-                
+
             }
                 Console.ReadLine();
         }
